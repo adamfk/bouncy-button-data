@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-Welcome!
+Thanks for sharing your button/switch data with the community.
+
 
 # Switch Info
 Please fill out the following information about the switch you are testing:
@@ -21,6 +22,7 @@ Please fill out the following information about the switch you are testing:
 - Current rating: if available
 - Anything else noteworthy?
 
+
 # Test Session Setup
 Please fill out the following information about your test setup:
 - Pull-up resistor: Arduino internal (this is the default), external (please specify value), none
@@ -30,11 +32,13 @@ Please fill out the following information about your test setup:
 
 Please upload picture(s) of your test setup showing how the switch is connected to your Arduino. Please be wary of insecure wires/connections as they can cause many signal glitches.
 
-# Test Session Results
-Test date: *specify if different from when this issue was opened*
 
+# Test Session Results
+## 📄 Attach raw data
 Please attach the Arduino serial monitor output as a text file.
 
+## 🖼️ Summary Images (optional)
 It would be really helpful if you could post a screenshot of some of the graphs and/or [attach a pdf](https://github.com/adamfk/bouncy-button-data/wiki/creating-a-pdf-of-your-data). This takes a bit more effort, but will help make this repo much more interesting for people to browse.
 
+## 🕵️ Your Observations (optional)
 If you'd like to, feel free to include additional highlights or observations from your test session. It's always interesting to read about.
