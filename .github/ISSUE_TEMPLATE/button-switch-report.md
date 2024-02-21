@@ -1,6 +1,6 @@
 ---
 name: Button/Switch Report
-about: Share your button/switch bounce test session with the world!
+about: Share your button/switch bounce data with the world!
 title: ''
 labels: ''
 assignees: ''
