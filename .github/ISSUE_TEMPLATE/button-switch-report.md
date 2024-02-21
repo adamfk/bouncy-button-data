@@ -1,6 +1,6 @@
 ---
 name: Button/Switch Report
-about: Share your button/switch bounce data with the world!
+about: Share your button/switch bounce test session with the world!
 title: ''
 labels: ''
 assignees: ''
@@ -18,12 +18,15 @@ Please fill out the following information about the switch you are testing:
 
 - Type: toggle, push button, tactile, slide, rocker, limit, dip, stomp, other
 - Circuit: SPST, SPDT, ...
-- Resting state: normally closed, normally open
+- Function: Off-On (rocker/toggle), Off-Mom (Normally Open), ...
 - How new is the switch? barely used, moderately used, heavily used, unknown
-- Model info: if available
+- Model info/markings: if available
 - Product URL: if available. please consider using https://web.archive.org/save to preserve page for future button enthusiasts
 - Current rating: if available
-- Anything else noteworthy? Any interesting history?
+- How do you like the switch: 
+- Anything else noteworthy: Any interesting history?
+
+Please attach photos of the button/switch.
 
 <br><br>
 
@@ -34,7 +37,7 @@ Please fill out the following information about your test setup:
 - Pull-up resistor: Arduino internal (this is the default), external (please specify value), none
     - Bonus points for measuring the actual pull-up resistor value. See how-to guide.
 - Arduino model: Uno, Nano, ...
-- Measure switch's ON resistance: bonus points!
+- Measure switch's ON resistance: bonus points! Don't worry about < 1 ohm.
 - Anything else connected? oscilloscope?
 - Anything else noteworthy?
 
