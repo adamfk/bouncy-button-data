@@ -1,7 +1,7 @@
 ---
-name: Test Session Report
+name: Switch Report
 about: Share your button bounce test session with the world!
-title: Test Session Report
+title: Switch Report
 labels: ''
 assignees: ''
 
@@ -9,6 +9,9 @@ assignees: ''
 
 Thanks for sharing your button/switch data with the community.
 
+Please note: 
+- This issue is for a **particular instance** of a switch/button of the original poster. If someone else wants to test the same switch model, they should create a new issue.
+- The original poster can add additional test sessions to this issue (if they wish) by adding a comment.
 
 # Switch Info
 Please fill out the following information about the switch you are testing:
@@ -20,25 +23,30 @@ Please fill out the following information about the switch you are testing:
 - Model info: if available
 - Product URL: if available. please consider using https://web.archive.org/save to preserve page for future button enthusiasts
 - Current rating: if available
-- Anything else noteworthy?
+- Anything else noteworthy? Any interesting history?
 
+<br><br>
 
-# Test Session Setup
+# Test Session #1
+
+## Setup
 Please fill out the following information about your test setup:
 - Pull-up resistor: Arduino internal (this is the default), external (please specify value), none
+    - Bonus points for measuring the actual pull-up resistor value. See how-to guide.
 - Arduino model: Uno, Nano, ...
+- Measure switch's ON resistance: bonus points!
 - Anything else connected? oscilloscope?
 - Anything else noteworthy?
 
 Please upload picture(s) of your test setup showing how the switch is connected to your Arduino. Please be wary of insecure wires/connections as they can cause many signal glitches.
 
 
-# Test Session Results
-## 📄 Attach raw data
+## Results
+### 📄 Attach raw data
 Please attach the Arduino serial monitor output as a text file.
 
-## 🖼️ Summary Images (optional)
-It would be really helpful if you could post a screenshot of some of the graphs and/or [attach a pdf](https://github.com/adamfk/bouncy-button-data/wiki/creating-a-pdf-of-your-data). This takes a bit more effort, but will help make this repo much more interesting for people to browse.
+### 🖼️ Summary Image
+Please attach a screen shot of your data in "Tight" mode. See [how-to-summarize](https://github.com/adamfk/bouncy-button-data/blob/main/how-to-summarize.md).
 
-## 🕵️ Your Observations (optional)
+### 🕵️ Your Observations (optional)
 If you'd like to, feel free to include additional highlights or observations from your test session. It's always interesting to read about.
