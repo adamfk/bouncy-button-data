@@ -1,7 +1,7 @@
 ---
 name: Button/Switch Report
 about: Share your button/switch bounce test session with the world!
-title: ''
+title: "<max bounce time> - <switch type> - <switch model/description>"
 labels: ''
 assignees: ''
 
@@ -36,6 +36,7 @@ Please attach photos of the button/switch.
 Please fill out the following information about your test setup:
 - Pull-up resistor: Arduino internal (this is the default), external (please specify value), none
     - Bonus points for measuring the actual pull-up resistor value. See how-to guide.
+- Switch wires connection: soldered, alligator clips, screws...
 - Arduino model: Uno, Nano, ...
 - Measure switch's ON resistance: bonus points! Don't worry about < 1 ohm.
 - Anything else connected? oscilloscope?
