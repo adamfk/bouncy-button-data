@@ -30,7 +30,7 @@ Please attach photos of the button/switch.
 
 <br><br>
 
-# Test Session #1
+# Test Session 1
 
 ## Setup
 Please fill out the following information about your test setup:
