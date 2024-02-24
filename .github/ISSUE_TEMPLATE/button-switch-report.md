@@ -22,7 +22,7 @@ Please fill out the following information about the switch you are testing:
 - How new is the switch? barely used, moderately used, heavily used, unknown
 - Model info/markings: if available
 - Product URL: if available. please consider using https://web.archive.org/save to preserve page for future button enthusiasts
-- Current rating: if available
+- Voltage & Current rating: if available
 - How do you like the switch: 
 - Anything else noteworthy: Any interesting history?
 
@@ -38,9 +38,9 @@ Please fill out the following information about your test setup:
     - Bonus points for measuring the actual pull-up resistor value. See how-to guide.
 - Switch wires connection: soldered, alligator clips, screws...
 - Arduino model: Uno, Nano, ...
-- Measure switch's ON resistance: bonus points! Don't worry about < 1 ohm.
-- Anything else connected? oscilloscope?
-- Anything else noteworthy?
+- Measure switch's ON resistance: bonus points! Rough measurement is fine like 0.5 ohms.
+- Anything else connected: oscilloscope?
+- Anything else noteworthy: test section descriptions?
 
 Please upload picture(s) of your test setup showing how the switch is connected to your Arduino. Please be wary of insecure wires/connections as they can cause many signal glitches.
 
