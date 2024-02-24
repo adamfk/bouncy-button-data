@@ -61,7 +61,7 @@ Please upload picture(s) of your test setup showing how the switch is connected 
 ### Test Section Details
 Any notes on how you did the fast/slow/... sections? Those test sections are optional.
 
-### 📄 Raw data
+### 📄 Raw Data
 TODO: Please attach the Arduino serial monitor output as a text file.
 
 ### 🖼️ Summary Image
