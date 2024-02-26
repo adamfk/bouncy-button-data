@@ -17,8 +17,8 @@ The important parts are:
    - on Windows, you can press `ALT+<print_screen>` to capture just your active window (not all monitors)
 4. paste the image into the GitHub issue where you want it.
 
-## How do I measure my Arduino's internall pull up resistor?
-1. make sure your Arduino is running the bouncy-button-benchmark softare
+## How do I measure my Arduino's internal pull up resistor?
+1. make sure your Arduino is running the bouncy-button-benchmark software
 2. connect a multimeter (DMM) across pin 4 and ground
 3. use your DMM to the measure the voltage (it should be around 4.99 volts)
 4. use your DMM to measure the current.
