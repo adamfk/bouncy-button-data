@@ -24,5 +24,11 @@ Once you are ready to share your data, open a new issue in this repo and fill ou
 <br>
 
 ## FAQ & Tips
-See [faq.md](./faq.md).
+See [faq.md](./faq.md)
+
+<br>
+
+## Browse Some Data
+See https://github.com/adamfk/bouncy-button-data/issues
+
 
