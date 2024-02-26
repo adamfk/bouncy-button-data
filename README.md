@@ -19,6 +19,8 @@ Get started here: https://github.com/adamfk/bouncy-button/
 ## Share Your Data
 Once you are ready to share your data, open a new issue in this repo and fill out the details: https://github.com/adamfk/bouncy-button-data/issues/new/choose
 
+<br>
 
-
+## FAQ & Tips
+See [faq.md](./faq.md).
 
