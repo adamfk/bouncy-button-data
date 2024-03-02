@@ -64,6 +64,8 @@ Any notes on how you did the fast/slow/... sections? Those test sections are opt
 ### 📄 Raw Data
 TODO: Please attach the Arduino serial monitor output as a text file.
 
+You can graph/analyze the data [here.](https://adamfk.github.io/bouncy-button/bbb-browser/gui.html)
+
 ### 🖼️ Summary Image
 TODO: Please attach a screen shot of your data in "Tight" mode. See [how-to-summarize](https://github.com/adamfk/bouncy-button-data/blob/main/how-to-summarize.md).
 
