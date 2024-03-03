@@ -1,9 +1,12 @@
-# Bouncy Button Data
-Did you read Jack Ganssle's excellent [guide to debouncing](https://www.ganssle.com/debouncing.htm) and wish you had access to all of his data in high definition where you could view/analyze it to your hearts' content?
+## TLDR - Show Me Some Data!
+Every button tested gets its own [issue](https://github.com/adamfk/bouncy-button-data/issues) in this repo. Feel free to explore and add your own data.
 
-I love his work, but the images are very low resolution, pixelated and fuel my need for more & better data!!!
+[![image](https://github.com/adamfk/bouncy-button-data/assets/274012/4f8a8fbf-a52a-4e07-b836-bd66e18a946c)](https://github.com/adamfk/bouncy-button-data/issues)
 
-![image](https://github.com/adamfk/bouncy-button-data/assets/274012/d8a011a3-f1db-4505-862a-631219438dcd)
+<br>
+
+## Why Is The Data In Issues?
+I chose to use issues because it's a simple way to keep track of the data and it's easy to search and filter. It also allows anyone to easily add their data without needing to go through a pull request.
 
 <br>
 
@@ -25,10 +28,5 @@ Once you are ready to share your data, open a new issue in this repo and fill ou
 
 ## FAQ & Tips
 See [faq.md](./faq.md)
-
-<br>
-
-## Browse Some Data
-See https://github.com/adamfk/bouncy-button-data/issues
 
 
