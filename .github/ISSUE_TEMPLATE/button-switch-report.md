@@ -67,7 +67,7 @@ TODO: Please attach the Arduino serial monitor output as a text file.
 You can graph/analyze the data [here.](https://adamfk.github.io/bouncy-button/bbb-browser/gui.html)
 
 ### 🖼️ Summary Image
-TODO: Please attach a screen shot of your data in "Tight" mode. See [how-to-summarize](https://github.com/adamfk/bouncy-button-data/blob/main/how-to-summarize.md).
+TODO: Please attach a screen shot of your data in "Tight" mode. See [faq](https://github.com/adamfk/bouncy-button-data/blob/main/faq.md).
 
 ### 🕵️ Your Observations (optional)
 If you'd like to, feel free to include additional highlights or observations from your test session. It's always interesting to read about.
