@@ -1,4 +1,7 @@
 # FAQ
+## See also
+The main [bouncy-button FAQ](https://github.com/adamfk/bouncy-button/blob/main/faq.md). It explains how to mark test sections as invalid.
+
 ## Do I need to solder wires to my switch?
 Alligator clips are fine if you are doing regular testing and your switch is bouncing less than 20ms.
 
